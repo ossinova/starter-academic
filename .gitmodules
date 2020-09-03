@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/ossinova/ossinova.github.io.git
+	branch = master
