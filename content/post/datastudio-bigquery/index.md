@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Dashboards using Google DataStudio and BigQuery"
-subtitle: "An introduction"
-summary: ""
+subtitle: "An introduction to DataStudio"
+summary: "A tutorial on how to use DataStudio and BigQuery to create beautiful dashboards"
 authors: [Oscar Dyremyhr]
 tags: [bigquery, data, visualization, datastudio]
 categories: [visualization, cloud]
