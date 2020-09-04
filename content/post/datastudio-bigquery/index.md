@@ -32,8 +32,11 @@ projects: []
 
 DataStudio is a very cool and suprisingly user-friendly tool built by Google. It allows for the creation of Dashboards and visualization by connecting a data source such as a CSV file or a database. In this tutorial we will be using BigQuery, another Google product that works very nicely in conjuntion with DataStudio.
 
-Head over to [DataStudio][https://datastudio.google.com/] and log in with your Google account.
+Head over to [DataStudio] and log in with your Google account.
 
 You should see something like this:
 
 <iframe width="600" height="800" src="https://datastudio.google.com/embed/reporting/31e8b262-2d18-48a9-8483-d0a3b9ed7abf/page/1M" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
+[DataStudio] : https://datastudio.google.com/
