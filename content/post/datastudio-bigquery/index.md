@@ -39,4 +39,26 @@ You should see something like this:
 <iframe width="600" height="800" src="https://datastudio.google.com/embed/reporting/31e8b262-2d18-48a9-8483-d0a3b9ed7abf/page/1M" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
-[DataStudio] : https://datastudio.google.com/
+
+
+# Connecting to BigQuery
+
+Once you have created a DataStudio project you can connect a data source. Fr the purpose of this tutorial we will be using BigQuery. You can connect to BigQuery, by selecting it:
+
+
+
+
+
+If you do not a BigQuery instance. I have a blog post that goes through how you can set up one (here)[SetupBigQuery]
+
+
+
+
+
+
+
+
+
+
+[DataStudio]: https://datastudio.google.com/
+[SetupBigQuery]: https://ossinova.me/post/setup-bigquery/
