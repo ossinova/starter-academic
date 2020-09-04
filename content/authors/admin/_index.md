@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Oscar Dyremyhr
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Business Analyst
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: HeltHjem
+  url: "helthjem.no"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
+- Machine Learning
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Automation/Scripting
+- Cloud Computing
+- Data Visualization
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSc in Business Analytics
+    institution: BI Norwegian Business School
+    year: 2020
+  - course: BSc in Information Sciences and Technology
+    institution: The Pennsylvania State University
+    year: 2018
+  
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
