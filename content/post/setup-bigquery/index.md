@@ -33,13 +33,13 @@ projects: []
 Setting up BigQuery takes a few minutes. Go to your console.cloud.google.com page and add the BigQuery service to your project.
 
 
-![alt text](images\setup-bigquery.PNG "BigQuery")
+![alt text](\images\setup-bigquery.PNG "BigQuery")
 
 Click on create dataset and fill in the information as you wish. Once complete we can add tables and propagate it with data. If you wish to upload a CSV file you would need to eanable the BigQuery API.
 
 You can also use one of the free public datasets by running a SQL statement and saving the result to a table.
 
-'''sql
+```sql
 SELECT
   name, gender,
   SUM(number) AS total
@@ -52,4 +52,4 @@ ORDER BY
 LIMIT
   10
 
-'''
+```
