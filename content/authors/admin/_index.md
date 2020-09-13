@@ -56,9 +56,9 @@ social:
   link: https://github.com/ossinova
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,4 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Oscar Dyremyhr is a MSc Business Analytics student at BI Norwegian Business School. A proactive, energetic, team-oriented and social person aiming to become a skilled business/data analyst. He current works for HeltHjem where he uses his creative mind to build awesome solutions to effectively and efficiently visualize, analyze and store data. 
+Oscar Dyremyhr is a MSc Business Analytics student at BI Norwegian Business School. A proactive, energetic, team-oriented and social person aiming to become a skilled business/data analyst. He current works for HeltHjem where he uses his creative mind to build awesome solutions to effectively and efficiently visualize, analyze and store data.
+
+{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}
