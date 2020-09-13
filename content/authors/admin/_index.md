@@ -71,5 +71,3 @@ user_groups:
 ---
 
 Oscar Dyremyhr is a MSc Business Analytics student at BI Norwegian Business School. A proactive, energetic, team-oriented and social person aiming to become a skilled business/data analyst. He current works for HeltHjem where he uses his creative mind to build awesome solutions to effectively and efficiently visualize, analyze and store data.
-
-{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}
