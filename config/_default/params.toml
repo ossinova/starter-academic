@@ -113,7 +113,7 @@ phone = "+47 986 05 552"
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/ossinova"},
-  {icon = "linkedin", icon_pack = "fab", name = "LinkeIn", link = "https://linin.com/in/oscar-dyremyhr},
+  {icon = "linkedin", icon_pack = "fab", name = "LinkeIn", link = "https://linin.com/in/oscar-dyremyhr"},
   {icon = "Github", icon_pack = "fab", name = "Github", link = "https://github.com/ossinova"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
