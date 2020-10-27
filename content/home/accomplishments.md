@@ -19,33 +19,33 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "IBM"
+  organization_url = "https://www.ibm.com"
+  title = "Machine Learning with Python - Level 1"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = "https://www.youracclaim.com/badges/ab6a65b3-5017-45e0-8e24-54fc9743b27e?source=linked_in_profile"
+  date_start = "2020-10-10"
   date_end = ""
-  description = ""
+  description = "Introduction to Machine Learning using Python."
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "IBM"
+  organization_url = "https://www.ibm.com"
+  title = "Python for Data Science"
+  url = ""
+  certificate_url = "https://www.youracclaim.com/badges/56a7cfbf-40a2-4887-b713-0189e0044044?source=linked_in_profile"
+  date_start = "2020-10-10"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
+  description = "Introduction to Python for Data Science."
+
 [[item]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  title = "Intermediate Python for Data Science"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/2cc19fdcbfd9871ce83fc758840b7d774b6bc3e6"
+  date_start = "2019-09-09"
+  date_end = ""
   description = ""
 
 +++
