@@ -3,7 +3,7 @@ title: Dashboards using Google DataStudio and BigQuery
 subtitle: An introduction to DataStudio
 date: 2020-10-27T14:43:42.258Z
 summary: A tutorial on how to use DataStudio and BigQuery to create beautiful dashboards
-draft: true
+draft: false
 featured: false
 authors:
   - Oscar Dyremyhr
@@ -65,7 +65,7 @@ To make the report a bit more personalized we can add a company logo and title. 
 
 A transparent logo is recommended for best result.
 
-Now the reports hsould look something like this:
+**Once completed the report should look something like this:**
 
 ![Logo and title](logo.png)
 
@@ -74,11 +74,17 @@ Now the reports hsould look something like this:
 By clicking on the **Add a chart** dropdown button from the toolbar we can
 add popular charts to our report.
 
-Lets create a pie chart, since we already have connected BigQuery DataStudio will suggest appropriate dimensions:
+Lets create a Table in our report. Since we already have connected BigQuery, DataStudio will suggest appropriate dimensions.
 
+By clicking on the Table the sidepanel shows additional options for Data and Style. We can now edit the dimensions to our liking.
 
-By clicking on the pie chart the sidepanel shows additional options for Data and Style. We can now edit the dimensions to our liking.
+![Data sidepanel](sidepanel.png)
 
+Lets leave the date range and dimension as it is. However, lets **use the fields; confirmed cases, daily confirmed cases and deaths for metrics.**
+
+Lets also add a Geo chart to display confirmed cases in a more interactive way. Select the Geo chart from the toolbar and **add geo_id for the dimension and confirmed cases as the metric.**
+
+You can add additional charts as you wish, in my case I also added some scorecards to visualize the total number of confirmed case, daily cases and deaths. A scorecard can also be found under the **add a chart** in the toolbar.
 
 
 # Sharing the report
@@ -89,4 +95,12 @@ Once you get the hang off DataStudio and its features you can share the report w
 
 Another handy sharing option is to embed the report. Embedding allows you to share the report to your website or web application. This allows for more customization and can easily be integrated into a portal,  admin panel or statistics page.
 
+Below you can se my finalized report embedded into my blog.
+
 <iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/2b391029-9875-499a-ab3f-ad99104194e8/page/MsGmB" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+# Rounding things off
+
+In this short tutorial I went through how you can use DataStudio to visualize your data with the BigQuery connector. How you can add a theme and style your report. How you can customize charts and maps as well as how to share your finalized results.
+
+There are a lot more you can do with DataStudio. Such as adding more pages, filtering options and community charts. However, I advice you to play around and try these features on your won. If you have any questions you can contact me on [LinkedIn](https://linkedin.com/in/oscar-dyremyhr/)
