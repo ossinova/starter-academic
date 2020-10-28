@@ -84,6 +84,10 @@ Lets leave the date range and dimension as it is. However, lets **use the fields
 
 Lets also add a Geo chart to display confirmed cases in a more interactive way. Select the Geo chart from the toolbar and **add geo_id for the dimension and confirmed cases as the metric.**
 
+We should also add a filter to filer the data by today's date. In the toolbar you can add a date range control. Clicking on the filter you can change the default date range in the sidepanel to be Today.
+
+![Filter](filter.png)
+
 You can add additional charts as you wish, in my case I also added some scorecards to visualize the total number of confirmed case, daily cases and deaths. A scorecard can also be found under the **add a chart** in the toolbar.
 
 
@@ -97,6 +101,7 @@ Another handy sharing option is to embed the report. Embedding allows you to sha
 
 Below you can se my finalized report embedded into my blog.
 
+**Full screen available by clicking the button in the lower right side**
 <iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/2b391029-9875-499a-ab3f-ad99104194e8/page/MsGmB" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 # Rounding things off
