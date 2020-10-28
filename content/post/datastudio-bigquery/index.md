@@ -78,7 +78,7 @@ Lets create a Table in our report. Since we already have connected BigQuery, Dat
 
 By clicking on the Table the sidepanel shows additional options for Data and Style. We can now edit the dimensions to our liking.
 
-![Data sidepanel](sidepanel.png =100x20)
+<img src="sidepanel.png" alt="drawing"  height="200"/>
 
 Lets leave the date range and dimension as it is. However, lets **use the fields; confirmed cases, daily confirmed cases and deaths for metrics.**
 
