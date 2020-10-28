@@ -3,7 +3,7 @@ title: Dashboards using Google DataStudio and BigQuery
 subtitle: An introduction to DataStudio
 date: 2020-10-27T14:43:42.258Z
 summary: A tutorial on how to use DataStudio and BigQuery to create beautiful dashboards
-draft: true
+draft: false
 featured: false
 authors:
   - Oscar Dyremyhr
